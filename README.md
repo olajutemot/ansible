@@ -1,7 +1,7 @@
 # ansible
 ansible playbook to install and start Ngnix
 
-## ansible script to launch play-book 
+## To launch ansible play-book 
 ```
 ansible-playbook -i inventory first-playbook.yml
 ```
